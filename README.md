@@ -22,4 +22,3 @@ Grafico de barras verticais mostrando o nome do produto com seu custo em relaç�
 
 Gráfico de barras vertical mostrando a subcategoria de produto com seu custo em relação ao seu lucro
 
-A seguir a demonstração do dashboard:
