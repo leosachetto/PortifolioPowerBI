@@ -30,6 +30,7 @@ Grafico de barras verticais mostrando o nome do produto com seu custo em relaç�
 Gráfico de barras vertical mostrando a subcategoria de produto com seu custo em relação ao seu lucro
 
 SEGUNDA PÁGINA
+
 Card ocom a quiantidade de clientes
 
 Card com o continente que mais compra 
