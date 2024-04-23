@@ -2,7 +2,8 @@
 
 ![image](https://github.com/leosachetto/PortifolioPowerBI/assets/48931853/7b762cf0-5da0-4520-b257-29c6b2020705)
 
-![image](https://github.com/leosachetto/PortifolioPowerBI/assets/48931853/208ad82d-0473-436d-9dcf-67096b18cfa7)
+![image](https://github.com/leosachetto/PortifolioPowerBI/assets/48931853/50cdb0bd-fc21-4bdf-a374-bdab1fe0071e)
+
 
 
 
